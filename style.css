@@ -22,7 +22,7 @@
 
 body {
 	margin: 0px;
-	background-color: #c5ded5;
+	background-color: #e2ece8;
 	font-family: arial;
 }
 
@@ -93,7 +93,7 @@ input[type="button"] {
 	max-width: 600px;
 	color: #ed4c2b;
 	margin: 0 auto;
-	background-color: #bff763;
+	background-color: #c5ded5;
 	padding: 10px;
 	height: auto;
 	border-bottom: solid 3px #b16a09;
@@ -104,7 +104,7 @@ input[type="button"] {
 	max-width: 600px;
 	color: #fff;
 	margin: 0 auto;
-	background-color: #aaed3c;
+	background-color: #c5ded5;
 	padding: 10px;
 	height: auto;
 	border-bottom: solid 5px #b16a09;
@@ -441,7 +441,7 @@ border-radius: 20px;
 
 
 #rdiv:hover {
-  background: #ddf7f9  !important;
+  background: #edfed1  !important;
 }
 
 #rdiv {
