@@ -62,7 +62,7 @@ body {
 .tbF {
 	  color: #444;
   table-layout: fixed;
-  width: 90%;
+  width: 95%;
   border-collapse: separate; /* Prevent table border from collapsing */
 }
 
@@ -79,7 +79,7 @@ body {
 
 /* Style text input elements with a width of 90% */
 input[type="text"] {
-	width: 90%;
+	width: 95%;
 }
 
 /* Style button input elements with a bold font-weight and automatic width */
@@ -403,7 +403,7 @@ border-radius: 20px;
    background-color: #ff3912;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
-    margin-bottom: 4px; 
+    margin-bottom: 4px;
 }
 
 #more-button{
