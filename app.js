@@ -317,7 +317,6 @@ function saveData(title, quote, author) {
 			saveButton.disabled = false;
 			quoteTextarea.setCustomValidity("Too many line breaks");
 		} else {
-			//event.preventDefault();
 			
 			if (quote.length > 100) {
 				quote = quote.substring(0, 100);
